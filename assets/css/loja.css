@@ -1,0 +1,25 @@
+.topo-pagina {
+    background: url('../img/topo-paginas-bg.png');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 12rem;
+    padding-bottom: 8rem;
+   
+}
+
+.topo-pagina h1 {
+    color: #fff;
+    font-size: 4rem;
+}
+
+.topo-pagina p {
+    color: #fff;
+    font-size: 2rem;
+    padding-top: 1rem;
+}
+
+.topo-pagina p a {
+    color: red;
+    padding-right: .5rem;
+}
