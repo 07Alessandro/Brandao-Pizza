@@ -52,6 +52,8 @@ Esta seção é o coração da página, onde a marca se conecta com o cliente co
 
 ##  Galeria de Fotos 
 
+![alt text](brandaopizza_galeria.PNG)
+
 Para complementar a experiência, há uma galeria de imagens que mostra o ambiente, as pizzas ou outros momentos da pizzaria. Ao clicar em uma das fotos, o cliente pode ver a imagem em um tamanho maior, o que ajuda a despertar o interesse e a confiança.
 
 # Cardápio 
